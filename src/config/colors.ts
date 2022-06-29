@@ -1,0 +1,18 @@
+export default {
+  blue01: "#0186D5",
+  blue02: "#16CFEB",
+  blue03: "#009DD9",
+  blue04: "#0880AE",
+  blue05: "#8FB0F8",
+  blue06: "#8FCEFF",
+  blue07: "#32E5E1",
+  blueFB: "#00335C",
+  gray: "#BEBEBE",
+  lightGray: "#455B6314",
+  grayBG: "#FAFAFA",
+  white: "#FFFFFF",
+  black: "#000000",
+  modalLayer: "rgba(234,234,234,0.7)",
+  green: "#00BE5F",
+  red: "#FF0000",
+};
